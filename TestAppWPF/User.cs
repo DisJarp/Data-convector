@@ -15,6 +15,7 @@ namespace TestAppWPF
             this.FerstName = FerstName;
             this.MiddleName = MiddleName;
             this.Phone = Phone;
+            
         }
 
         public int Id { get; set; }
